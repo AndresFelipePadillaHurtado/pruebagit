@@ -1,0 +1,4 @@
+<div class="form-group">
+                <label for="">Nombre</label>
+                <input type="text" placeholder="Nombre" class="from-control">
+            </div>
